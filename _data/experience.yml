@@ -3,8 +3,8 @@
 - company: Samsung Electronics
   position: Software Engineer
   duration: Aug, 2015 &mdash; Jun, 2020
-  summary: <ul class="resume-item-list"><li>"Machine Learning for SSDs: Implemented Hot/Cold Stream Classifier."</li><li>"Flash Translation Layer (FTL): Developed Flash-based Mobile Storage Firmware(eMMC)." </li></ul>
-
+  summary: <ul class="resume-item-list"><li>Flash Translation Layer (FTL)</li><li>Machine Learning for SSDs</li></ul>
+  
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
   position: Director of Digital Strategy
