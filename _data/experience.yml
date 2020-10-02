@@ -3,10 +3,16 @@
 - company: Samsung Electronics
   position: Software Engineer
   duration: Aug, 2015 &mdash; Jun, 2020
-  summary: <ul class="resume-item-list"><li><b>Flash Translation Layer (FTL)</b><br \>developed flash-based mobile storage firmware(eMMC).</li><li><b>Machine Learning for SSDs</b><br /> implemented hot/cold stream classifier.</li></ul>
+  summary: <ul class="resume-item-list"><li><b>Flash Translation Layer (FTL)</b><br \>Developed flash-based mobile storage firmware(eMMC).</li><li><b>Machine Learning for SSDs</b><br /> Implemented hot/cold stream classifier.</li></ul>
   
 # NC SOFT
 - company: NC SOFT
   position: Game Programming Intern
   duration:   Jun, 2014 &mdash; Aug, 2014
   summary: Developed a message tool in Unreal Engine 4 to enhance user convenience.
+
+# Samsung Electronics
+- company: Korea Institute for Advanced Study (KIAS)
+  position: Student Fellow
+  duration: Aug, 2015 &mdash; Jun, 2020
+  summary: <ul class="resume-item-list"><li>Participated in the Mind and Brainproject on interdisciplinary research.</li><li>Delivered aposter presentation on web-search-engine-like-heuristics at the international Toward a Unified Science of Mind-Brainconference.</li></ul>
