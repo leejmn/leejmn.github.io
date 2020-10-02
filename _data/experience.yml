@@ -3,7 +3,7 @@
 - company: Samsung Electronics
   position: Software Engineer
   duration: Aug, 2015 &mdash; Jun, 2020
-  summary: <ul class="resume-item-list"><li>Flash Translation Layer (FTL): developed flash-based mobile storage firmware(eMMC).</li><li>Machine Learning for SSDs: implemented hot/cold stream classifier.</li></ul>
+  summary: <ul class="resume-item-list"><li><b>Flash Translation Layer (FTL)</b> developed flash-based mobile storage firmware(eMMC).</li><li>Machine Learning for SSDs: implemented hot/cold stream classifier.</li></ul>
   
 # NC SOFT
 - company: NC SOFT
