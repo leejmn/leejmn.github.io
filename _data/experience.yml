@@ -2,17 +2,11 @@
 # Samsung Electronics
 - company: Samsung Electronics
   position: Software Engineer
-  duration: Jan, 2019 &mdash; Jun, 2020
-  summary: Machine Learning for SSDs: Implement Hot/Cold Stream Classifier.
-  
-# Samsung Electronics
-- company: Samsung Electronics
-  position: Software Engineer
-  duration:  Apr, 2016 &mdash; Dec, 2018
-  summary: Flash Translation Layer (FTL): Developed Flash-based Mobile Storage Firmware(eMMC).
+  duration: Aug, 2015 &mdash; Jun, 2020
+  summary: Flash Translation Layer (FTL): Developed Flash-based Mobile Storage Firmware(eMMC). Machine Learning for SSDs: Implement Hot/Cold Stream Classifier.
 
 # NC SOFT
 - company: NC SOFT
   position: Game Programming Intern
-  duration:   Jun, 2014  &mdash; Aug, 2014
+  duration:   Jun, 2014 &mdash; Aug, 2014
   summary: Developed a message tool in Unreal Engine 4 to enhanceuser convenience.
